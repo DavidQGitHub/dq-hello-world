@@ -6,6 +6,7 @@ import SongList from './components/SongList';
 
 function App() {
   // making a change to commit
+  // another comment
   return (
     <div className="App">
       <ExampleComponent />
