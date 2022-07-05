@@ -5,6 +5,7 @@ import Greeting from './components/Greeting';
 import SongList from './components/SongList';
 
 function App() {
+  // making a change to commit
   return (
     <div className="App">
       <ExampleComponent />
